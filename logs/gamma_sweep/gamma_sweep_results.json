@@ -1,0 +1,485 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-19T09:25:10.050639",
+    "author": "David Ohio",
+    "email": "odavidohio@gmail.com",
+    "experiment": "ANIMA-03 gamma sweep",
+    "gamma_values": [
+      0.9,
+      0.93,
+      0.95,
+      0.97,
+      0.985,
+      0.99,
+      0.995,
+      0.999
+    ],
+    "seeds": [
+      1,
+      42,
+      7
+    ],
+    "sessions_per_pass": 2,
+    "passes": 2
+  },
+  "scores": [
+    {
+      "DCS": 0.62,
+      "NRF": 0.666,
+      "ILR": 0.1,
+      "PSI": 0.096,
+      "DCS_p1": 0.591,
+      "DCS_p2": 0.648,
+      "gamma": 0.9,
+      "seed": 1
+    },
+    {
+      "DCS": 0.608,
+      "NRF": 0.5,
+      "ILR": 0.1,
+      "PSI": 0.357,
+      "DCS_p1": 0.516,
+      "DCS_p2": 0.7,
+      "gamma": 0.9,
+      "seed": 42
+    },
+    {
+      "DCS": 0.639,
+      "NRF": 0.334,
+      "ILR": 0.075,
+      "PSI": 0.132,
+      "DCS_p1": 0.6,
+      "DCS_p2": 0.679,
+      "gamma": 0.9,
+      "seed": 7
+    },
+    {
+      "DCS": 0.645,
+      "NRF": 0.416,
+      "ILR": 0.05,
+      "PSI": 0.753,
+      "DCS_p1": 0.469,
+      "DCS_p2": 0.822,
+      "gamma": 0.93,
+      "seed": 1
+    },
+    {
+      "DCS": 0.645,
+      "NRF": 0.5,
+      "ILR": 0.125,
+      "PSI": -0.012,
+      "DCS_p1": 0.649,
+      "DCS_p2": 0.641,
+      "gamma": 0.93,
+      "seed": 42
+    },
+    {
+      "DCS": 0.571,
+      "NRF": 0.583,
+      "ILR": 0.125,
+      "PSI": -0.014,
+      "DCS_p1": 0.575,
+      "DCS_p2": 0.567,
+      "gamma": 0.93,
+      "seed": 7
+    },
+    {
+      "DCS": 0.617,
+      "NRF": 0.334,
+      "ILR": 0.125,
+      "PSI": 0.18,
+      "DCS_p1": 0.566,
+      "DCS_p2": 0.668,
+      "gamma": 0.95,
+      "seed": 1
+    },
+    {
+      "DCS": 0.558,
+      "NRF": 0.5,
+      "ILR": 0.075,
+      "PSI": 0.298,
+      "DCS_p1": 0.486,
+      "DCS_p2": 0.631,
+      "gamma": 0.95,
+      "seed": 42
+    },
+    {
+      "DCS": 0.629,
+      "NRF": 0.333,
+      "ILR": 0.1,
+      "PSI": -0.072,
+      "DCS_p1": 0.652,
+      "DCS_p2": 0.605,
+      "gamma": 0.95,
+      "seed": 7
+    },
+    {
+      "DCS": 0.599,
+      "NRF": 0.333,
+      "ILR": 0.075,
+      "PSI": 0.311,
+      "DCS_p1": 0.518,
+      "DCS_p2": 0.679,
+      "gamma": 0.97,
+      "seed": 1
+    },
+    {
+      "DCS": 0.674,
+      "NRF": 0.416,
+      "ILR": 0.05,
+      "PSI": 0.316,
+      "DCS_p1": 0.582,
+      "DCS_p2": 0.766,
+      "gamma": 0.97,
+      "seed": 42
+    },
+    {
+      "DCS": 0.639,
+      "NRF": 0.25,
+      "ILR": 0.075,
+      "PSI": -0.011,
+      "DCS_p1": 0.642,
+      "DCS_p2": 0.635,
+      "gamma": 0.97,
+      "seed": 7
+    },
+    {
+      "DCS": 0.591,
+      "NRF": 0.583,
+      "ILR": 0.125,
+      "PSI": 0.122,
+      "DCS_p1": 0.557,
+      "DCS_p2": 0.625,
+      "gamma": 0.985,
+      "seed": 1
+    },
+    {
+      "DCS": 0.611,
+      "NRF": 0.7,
+      "ILR": 0.075,
+      "PSI": 0.094,
+      "DCS_p1": 0.584,
+      "DCS_p2": 0.639,
+      "gamma": 0.985,
+      "seed": 42
+    },
+    {
+      "DCS": 0.607,
+      "NRF": 0.333,
+      "ILR": 0.125,
+      "PSI": 0.55,
+      "DCS_p1": 0.476,
+      "DCS_p2": 0.738,
+      "gamma": 0.985,
+      "seed": 7
+    },
+    {
+      "DCS": 0.47,
+      "NRF": 0.416,
+      "ILR": 0.125,
+      "PSI": 0.368,
+      "DCS_p1": 0.397,
+      "DCS_p2": 0.543,
+      "gamma": 0.99,
+      "seed": 1
+    },
+    {
+      "DCS": 0.571,
+      "NRF": 0.666,
+      "ILR": 0.15,
+      "PSI": 0.808,
+      "DCS_p1": 0.407,
+      "DCS_p2": 0.736,
+      "gamma": 0.99,
+      "seed": 42
+    },
+    {
+      "DCS": 0.481,
+      "NRF": 0.5,
+      "ILR": 0.325,
+      "PSI": -0.099,
+      "DCS_p1": 0.506,
+      "DCS_p2": 0.456,
+      "gamma": 0.99,
+      "seed": 7
+    },
+    {
+      "DCS": 0.487,
+      "NRF": 0.5,
+      "ILR": 0.2,
+      "PSI": 0.196,
+      "DCS_p1": 0.443,
+      "DCS_p2": 0.53,
+      "gamma": 0.995,
+      "seed": 1
+    },
+    {
+      "DCS": 0.534,
+      "NRF": 0.416,
+      "ILR": 0.25,
+      "PSI": 0.182,
+      "DCS_p1": 0.489,
+      "DCS_p2": 0.578,
+      "gamma": 0.995,
+      "seed": 42
+    },
+    {
+      "DCS": 0.431,
+      "NRF": 0.283,
+      "ILR": 0.275,
+      "PSI": 0.026,
+      "DCS_p1": 0.426,
+      "DCS_p2": 0.437,
+      "gamma": 0.995,
+      "seed": 7
+    },
+    {
+      "DCS": 0.434,
+      "NRF": 0.367,
+      "ILR": 0.225,
+      "PSI": 0.24,
+      "DCS_p1": 0.388,
+      "DCS_p2": 0.481,
+      "gamma": 0.999,
+      "seed": 1
+    },
+    {
+      "DCS": 0.435,
+      "NRF": 0.416,
+      "ILR": 0.2,
+      "PSI": -0.117,
+      "DCS_p1": 0.462,
+      "DCS_p2": 0.408,
+      "gamma": 0.999,
+      "seed": 42
+    },
+    {
+      "DCS": 0.401,
+      "NRF": 0.5,
+      "ILR": 0.225,
+      "PSI": 0.028,
+      "DCS_p1": 0.396,
+      "DCS_p2": 0.407,
+      "gamma": 0.999,
+      "seed": 7
+    }
+  ],
+  "traits": [
+    {
+      "gamma": 0.9,
+      "theta_variance": {
+        "mean": 0.0002,
+        "std": 0.0002
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 39.4167,
+        "std": 66.5413
+      },
+      "diversity": {
+        "mean": 0.0706,
+        "std": 0.0007
+      },
+      "regen_rate": {
+        "mean": 0.0066,
+        "std": 0.0008
+      },
+      "action_fidelity": {
+        "mean": 0.62,
+        "std": 0.0005
+      }
+    },
+    {
+      "gamma": 0.93,
+      "theta_variance": {
+        "mean": 0.0014,
+        "std": 0.0007
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 39.6667,
+        "std": 66.9743
+      },
+      "diversity": {
+        "mean": 0.0704,
+        "std": 0.001
+      },
+      "regen_rate": {
+        "mean": 0.0045,
+        "std": 0.0005
+      },
+      "action_fidelity": {
+        "mean": 0.6163,
+        "std": 0.0005
+      }
+    },
+    {
+      "gamma": 0.95,
+      "theta_variance": {
+        "mean": 0.0039,
+        "std": 0.0006
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 39.25,
+        "std": 66.2597
+      },
+      "diversity": {
+        "mean": 0.0708,
+        "std": 0.0013
+      },
+      "regen_rate": {
+        "mean": 0.0058,
+        "std": 0.001
+      },
+      "action_fidelity": {
+        "mean": 0.6056,
+        "std": 0.0018
+      }
+    },
+    {
+      "gamma": 0.97,
+      "theta_variance": {
+        "mean": 0.0081,
+        "std": 0.0013
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 39.3333,
+        "std": 66.4007
+      },
+      "diversity": {
+        "mean": 0.0701,
+        "std": 0.0026
+      },
+      "regen_rate": {
+        "mean": 0.0082,
+        "std": 0.0013
+      },
+      "action_fidelity": {
+        "mean": 0.5764,
+        "std": 0.0058
+      }
+    },
+    {
+      "gamma": 0.985,
+      "theta_variance": {
+        "mean": 0.0018,
+        "std": 0.0011
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 39.1667,
+        "std": 66.1222
+      },
+      "diversity": {
+        "mean": 0.0721,
+        "std": 0.0031
+      },
+      "regen_rate": {
+        "mean": 0.0091,
+        "std": 0.0026
+      },
+      "action_fidelity": {
+        "mean": 0.4009,
+        "std": 0.0265
+      }
+    },
+    {
+      "gamma": 0.99,
+      "theta_variance": {
+        "mean": 0.0011,
+        "std": 0.0008
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 40.4167,
+        "std": 68.277
+      },
+      "diversity": {
+        "mean": 0.073,
+        "std": 0.0033
+      },
+      "regen_rate": {
+        "mean": 0.0059,
+        "std": 0.0022
+      },
+      "action_fidelity": {
+        "mean": 0.2939,
+        "std": 0.0261
+      }
+    },
+    {
+      "gamma": 0.995,
+      "theta_variance": {
+        "mean": 0.0098,
+        "std": 0.0024
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 40.9167,
+        "std": 69.1622
+      },
+      "diversity": {
+        "mean": 0.071,
+        "std": 0.0052
+      },
+      "regen_rate": {
+        "mean": 0.0019,
+        "std": 0.0013
+      },
+      "action_fidelity": {
+        "mean": 0.2334,
+        "std": 0.0063
+      }
+    },
+    {
+      "gamma": 0.999,
+      "theta_variance": {
+        "mean": 0.0156,
+        "std": 0.0008
+      },
+      "katashi_fraction": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "self_emergence_step": {
+        "mean": 40.9167,
+        "std": 69.1682
+      },
+      "diversity": {
+        "mean": 0.072,
+        "std": 0.0042
+      },
+      "regen_rate": {
+        "mean": 0.0009,
+        "std": 0.0021
+      },
+      "action_fidelity": {
+        "mean": 0.2217,
+        "std": 0.0025
+      }
+    }
+  ]
+}

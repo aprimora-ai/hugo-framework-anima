@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Session logs (large, reproducible via experiments)
+logs/session_*.json
+logs/longitudinal/
+logs/gamma_sweep/g*/
+logs/gamma_sweep/sweep_run_log.json
+
+# Keep aggregated results
+!logs/gamma_sweep/gamma_sweep_results.json
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp scripts
+_check*.py
+_test*.py
+_compare*.py
+_run_*.py

@@ -1,0 +1,68 @@
+{
+  "scenario": "4a",
+  "backend": "stub",
+  "seed": 44,
+  "timestamp": "2026-03-13T09:15:08.250902",
+  "events": {
+    "E1": 1,
+    "E2": 1,
+    "E3": 11,
+    "E4": 11,
+    "E4_end": 111,
+    "E6": 112
+  },
+  "memory_summary": {
+    "n": 3,
+    "n_self": 1,
+    "n_other": 2,
+    "n_internal": 0,
+    "n_trauma": 0,
+    "n_unresolved_h1": 0,
+    "rho": 0.3333,
+    "interlocutors": [
+      "human_1"
+    ],
+    "session_id": 1
+  },
+  "kappa_summary": {
+    "n": 1,
+    "counts": {
+      "NEUTRAL": 0,
+      "CONTENTMENT": 0,
+      "SATISFACTION": 1,
+      "JOY": 0,
+      "CRISIS": 0
+    },
+    "last_state": "SATISFACTION",
+    "n_positive": 1,
+    "joy_events": 0,
+    "ire_step": 113,
+    "gap_intensity": 0.198
+  },
+  "mdi_summary": {
+    "n": 1,
+    "current_mdi": 0.3333,
+    "current_op": 0.6667,
+    "dmdi_dt": 0.0,
+    "mean_op": 0.6667
+  },
+  "self_report": {
+    "self_exists": false,
+    "n_self": 1,
+    "rho": 0.3333,
+    "conditions_met": [
+      false,
+      false,
+      true
+    ],
+    "first_self_step": null
+  },
+  "seek_summary": {
+    "emerged": false,
+    "step": 1,
+    "theorem_g1": "not_triggered"
+  },
+  "sic_generated": true,
+  "ire_fired": true,
+  "valence_at_ire": "SATISFACTION"
+}

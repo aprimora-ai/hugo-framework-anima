@@ -1,0 +1,27 @@
+# ANIMA — Affective Narrative Intersubjective Manifold Architecture
+# HUGO Framework — Paper 4
+# David Ohio | odavidohio@gmail.com | Independent Researcher | 2026
+
+# Herança direta de REMIND
+numpy>=1.24.0
+scipy>=1.10.0
+ripser>=0.6.4
+persim>=0.3.1
+gudhi>=3.7.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# LLM-Ego — canal linguístico
+openai>=1.30.0          # API OpenAI (GPT-4o como LLM-Ego default)
+anthropic>=0.25.0       # Alternativa: Claude como LLM-Ego
+
+# ECHO embedding — processamento semântico-emocional
+sentence-transformers>=2.7.0   # ECHO_embed via transformers locais
+torch>=2.0.0                    # Backend dos sentence-transformers
+
+# Serialização e logging
+python-dotenv>=1.0.0    # variáveis de ambiente (API keys)
+jsonlines>=4.0.0        # M_A(t) persistência em disco
