@@ -1,5 +1,7 @@
 # ANIMA — Autonomous Neurodynamic Integration for Modular Agents
 
+[![DOI](https://zenodo.org/badge/1186288006.svg)](https://doi.org/10.5281/zenodo.19111951)
+
 **Longitudinal cognitive evaluation protocol for HUGO homeostatic agents.**
 
 David Ohio | Independent Researcher | odavidohio@gmail.com  
@@ -98,6 +100,7 @@ ANIMA/
   author = {Ohio, David},
   title = {ANIMA: Autonomous Neurodynamic Integration for Modular Agents},
   year = {2026},
+  doi = {10.5281/zenodo.19111951},
   url = {https://github.com/aprimora-ai/hugo-framework-anima},
   license = {CC-BY-4.0}
 }

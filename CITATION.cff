@@ -1,47 +1,43 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "ANIMA: Affective Dynamics in Linguistic Agents with Relational Memory"
-abstract: "ANIMA introduces linguistic bidirectionality and self-other differentiation as structural determinants of affective dynamics in artificial agents within the HUGO AGI Framework."
+title: "ANIMA: Autonomous Neurodynamic Integration for Modular Agents"
+abstract: "Longitudinal cognitive evaluation protocol for HUGO homeostatic agents. Dual-mode ablation + gamma-sweep across 296 sessions reveals 7 empirical cognitive archetypes controlled by a single personality parameter."
 type: software
 authors:
   - family-names: Ohio
     given-names: David
     email: odavidohio@gmail.com
 version: "1.0.0"
-date-released: "2026-03-17"
+date-released: "2026-03-19"
 license: CC-BY-4.0
-repository-code: "https://github.com/aprimora-ai/anima-framework"
+repository-code: "https://github.com/aprimora-ai/hugo-framework-anima"
+doi: "10.5281/zenodo.19111951"
 keywords:
-  - affective dynamics
-  - linguistic agents
-  - relational memory
-  - viscoplastic deformation
-  - memory discrepancy
-  - topological homeostasis
+  - cognitive archetypes
+  - homeostatic field
+  - personality parameter
+  - longitudinal evaluation
+  - agent architecture
   - HUGO framework
   - AGI
+  - ablation study
+  - gamma sweep
 references:
   - type: software
-    title: "HUGO: Homological Unified Gradient Ontology"
+    title: "Kappa-FIN: Topological Crisis Detection"
     authors:
       - family-names: Ohio
         given-names: David
-    doi: "10.5281/zenodo.18947852"
+    doi: "10.5281/zenodo.19068079"
   - type: software
-    title: "ECHO: Empathic Coupling and Homeostatic Oscillation"
+    title: "Kappa-LLM: Hallucination Detection"
     authors:
       - family-names: Ohio
         given-names: David
-    doi: "10.5281/zenodo.19043115"
+    doi: "10.5281/zenodo.15084857"
   - type: software
-    title: "REMIND: Episodic Memory Protocol"
+    title: "Kappa-Radiante: Structural Regime Transitions"
     authors:
       - family-names: Ohio
         given-names: David
-    doi: "10.5281/zenodo.19054013"
-  - type: software
-    title: "RHEO: Flow-Based Temporal Dynamics for Artificial Agents"
-    authors:
-      - family-names: Ohio
-        given-names: David
-    doi: "10.5281/zenodo.19058762"
+    doi: "10.5281/zenodo.18940478"
