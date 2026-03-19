@@ -1,6 +1,7 @@
 # ANIMA — Autonomous Neurodynamic Integration for Modular Agents
 
 [![DOI](https://zenodo.org/badge/1186288006.svg)](https://doi.org/10.5281/zenodo.19111951)
+[![Paper](https://zenodo.org/badge/DOI/10.5281/zenodo.19112005.svg)](https://doi.org/10.5281/zenodo.19112005)
 
 **Longitudinal cognitive evaluation protocol for HUGO homeostatic agents.**
 

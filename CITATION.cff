@@ -22,6 +22,15 @@ keywords:
   - AGI
   - ablation study
   - gamma sweep
+preferred-citation:
+  type: article
+  title: "ANIMA: Longitudinal Cognitive Advantage Through Homeostatic Field Persistence"
+  authors:
+    - family-names: Ohio
+      given-names: David
+      email: odavidohio@gmail.com
+  doi: "10.5281/zenodo.19112005"
+  year: 2026
 references:
   - type: software
     title: "Kappa-FIN: Topological Crisis Detection"
